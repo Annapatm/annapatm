@@ -2,7 +2,7 @@
 ![Taraka Ram's headshot](images/headshot.png)
 
 ## PROFESSIONAL SUMMARY
-Diligent student with a strong skill set, seeking a part-time position as a student worker. Proficient in various tasks, possessing exceptional communication skills and a proven ability to work effectively in team environments. Adept at multitasking and problem-solving, with a keen attention to detail. Eager to contribute expertise, reliability, and enthusiasm to enhance the team's productivity and success.
+Diligent student with a strong skill set, seeking a full time job position as a Data analyst. Proficient in various tasks, possessing exceptional communication skills and a proven ability to work effectively in team environments. Adept at multitasking and problem-solving, with a keen attention to detail. Eager to contribute expertise, reliability, and enthusiasm to enhance the team's productivity and success.
 
 ## CONTACT
 - Email: annapatm@mail.uc.edu
