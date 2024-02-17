@@ -10,7 +10,7 @@
 
 **Short-bio**: Taraka Ram has been fascinating on the cloud technologies with ethical hacking. 
 
-![Taraka Ram's headshot](headshots/Pic.png)
+![Taraka Ram's headshot](images/headshot.png)
 
 ## Repository Information
 
