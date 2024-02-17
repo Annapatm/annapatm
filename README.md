@@ -10,7 +10,7 @@
 
 **Short-bio**: Taraka Ram has been fascinating on the cloud technologies with ethical hacking. 
 
-![Taraka Ram's headshot](images/headshot.png)
+![Taraka Ram's headshot](images/headshot.jpeg)
 
 ## Repository Information
 
@@ -51,7 +51,7 @@ I used a free Bootstrap 4 HTML5 personal portfolio template (available via the p
 
 In addition, I used Google Analytics to set up a page tracker to gather information about how visitors engage and interact with my website. Through integration of the tracking code into my index page's HTML, I was able to efficiently track traffic, user activity, and other relevant metrics. This analytical tool showed my dedication to using technology to make educated decisions and continuously improve my online presence in addition to offering useful data for optimization.
 
-![GA](images/GA.png)
+![GA](images/GA.jpeg)
 
 
 ### Technical requirements (50 pts)​
