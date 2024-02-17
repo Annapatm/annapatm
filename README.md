@@ -1,105 +1,74 @@
-# TARAKA RAM ANNAPANENI
-![Taraka Ram's headshot](images/headshot.png)
+# WAPH-Web Application Programming and Hacking
 
-## PROFESSIONAL SUMMARY
-Diligent student with a strong skill set, seeking a full time job position as a Data analyst. Proficient in various tasks, possessing exceptional communication skills and a proven ability to work effectively in team environments. Adept at multitasking and problem-solving, with a keen attention to detail. Eager to contribute expertise, reliability, and enthusiasm to enhance the team's productivity and success.
+## Instructor: Dr. Phu Phung
 
-## CONTACT
-- Email: annapatm@mail.uc.edu
-- Phone: (+1) 5134136256
-- Address: 306, Klotter Avenue, Cincinnati, Ohio, 45219
-- LinkedIn: [linkedin.com/in/tarakara](https://www.linkedin.com/in/tarakara)
-  
-## WORK EXPERIENCE
-**DATA ENGINEERING ASSOCIATE | ACCENTURE**  
-Hyderabad, India – (September 19, 2022 – July 11, 2023)
-- Designed, built, and configured applications to meet business processes and requirements.
-- Determined production costs and strategized the most cost-effective means of production.
-- Troubleshooted product issues with developer teams and worked with Informatica vendor to resolve open cases.
-- Participated in team-building activities to enhance working relationships.
-- Developed and executed processes, created supply chains, and interacted with operations teams.
-- Experienced in administrative tasks such as upgrade activities, patching activities, DC-DR setup, folder migration, workflow migration, repository backups, and creation of schedules and some admin-related work.
+## Student
 
-## INTERNSHIPS
-**Applying Deep Learning Algorithm to Identify Fake or Paid Reviews**  
-(February 2022 – June 2022)
-- Research-based internship from East Stroudsburg University, USA.
-- Designed a large dataset comprising genuine and fake reviews, incorporating various textual and contextual features with preprocessing techniques such as tokenization, word embeddings, and data augmentation to identify fake or paid reviews.
+**Name**: Taraka Ram Annapaneni
 
-## PUBLICATIONS
-- Presented a paper on Robotics Surgery using IoT in VCANDO Journal on May 31, 2020.
+**Email**: annapatm@mail.uc.edu
 
-## ABOUT ME
-An enthusiastic and resolute undergraduate student with good interpersonal and technical skills looking for opportunities. Motivated and enthusiastic engineering student with professional skills in application development.
+**Short-bio**: Taraka Ram has been fascinating on the cloud technologies with ethical hacking. 
 
-## EDUCATION
-- **Vel Tech University, India**
-  - Class of 2018 - 2022
-  - Bachelor of Technology, CSE
-  - CGPA: 8.94/10
-- **Narayana Junior College, India**
-  - Class of 2016 – 2018
-  - Intermediate/Class XII in PCM’s
-  - Percentage: 97
-- **Sri Vidya E.M High School, India**
-  - Class of 2015 - 2016
-  - Class X
-  - CGPA: 9.5/10
+![Taraka Ram's headshot](headshots/Pic.png)
 
-## TECHNICAL SKILLS
-- Programming Languages: C, Python, Java (Basics)
-- Scripting Languages: Shell Script in Linux
-- Web Technologies: HTML, CSS (Basics)
-- Databases: PL/SQL, SQL
-- Tools: Informatica Power Center, MS Office, Tableau
+## Repository Information
 
-## ACADEMIC PROJECTS
-- **DEVELOPMENT OF VOICE CONTROLLED ROBOTIC VEHICLE USING ARDUINO PROCESSOR**
-- **AN INTEGRATED APPLICATION FOR COLLEGE PORTAL LOGIN**
-- **USER-FRIENDLY HOTEL MANAGEMENT WEBSITE**
-- **DENSITY-BASED TRAFFIC CONTROL USING ARDUINO**
+Repository's URL: [https://github.com/annapatm/annapatm.github.io](https://github.com/annapatm/annapatm.github.io)
 
-## WORKSHOPS
-- Attended 2 days workshop on "Ethical Hacking at Azure Skyne Solutions Pvt. Ltd", Chennai on August 24-25, 2019.
-- Attended 1 day workshop on "Overview of Data Science and its Applications" at Vel Tech University, Chennai on October 24, 2020.
+This is a public repository for Taraka Ram Annapaneni to store all code from the course. The organization of this repository is as follows.
 
-## CERTIFICATIONS
-- Cisco – Programming Essentials in Python, Introduction to Cyber Security, Introduction to IoT
-- UI Path – RPA Training for Developers
-- Coursera – Agile Software Development
-- AWS Cloud Virtual Internship
-- Machine Learning with TensorFlow
+# Individual Project 1
 
-## ACHIEVEMENTS
-- First Prize in Essay Writing
-- Second Prize in Paper Presentation
-- Guinness World Record and Asia Book of Records - Participated in the event of World’s Largest Human Image of Wheelchair held on December 3, 2018.
+[Individual Project 1](https://annapatm.github.io/)
 
-## EXTRA CURRICULAR ACTIVITIES
-- Member of UBA club at Vel Tech University
-- Organized Science event in Vel Tech
-- Participated in TANTRAZ 2020 technical & non-technical events
-- Participated in the event of World’s Largest Human Image of a Wheelchair Image organized by Vel Tech
-- Co-Organized a Cultural Fest – LAVAZA at Vel Tech University in January 2019
+## Front-end Web Development with a Professional Profile Website on github.io cloud service
 
-## PERSONAL TRAITS
-- Adaptive Learning
-- Team Player
-- Leadership
-- Quick Learner
-- Communication Skills
-- Patience
+## Overview
 
-## HOBBIES
-- Reading Books
-- Music & Movies
-- Travelling & Exploring
-- Cricket
-- Gardening
-- Photo, Video Editing
+Developing and implementing a professional GitHub profile page that attracts employers is the main goal of this project. This online resource includes an extremely thorough resume section as well as a special section explaining the specifics of the "Web Application Programming and Hacking" course. By utilizing the adaptability of an open-source CSS framework like Bootstrap, the design philosophy is significantly improved, guaranteeing an aesthetically pleasing user interface. In addition, the website integrates a multitude of technological components, such as jQuery and other libraries skillfully used to implement various JavaScript functionalities, the use of JavaScript cookies to provide a personalized user experience, and seamlessly integrated public Web APIs that facilitate dynamic data retrieval.Essentially, this project is an indication of proficiency in front-end programming as well as a deep understanding of important web application ideas.
 
-## LANGUAGES KNOWN
-- Telugu – Native
-- English – Fluent
-- Hindi – Intermediate
-- Tamil – Beginner
+
+### General requirements (30 pts): 
+
+ + Professional Profile Website: I took on the task of designing, developing, and launching a custom personal website that is housed on the cloud platform of GitHub. This online platform functions as an interactive portfolio, carefully crafted to highlight my career strengths and achievements. Including components like an eye-catching photo, extensive contact details, a rich history of my varied experiences, and a detailed educational background, the website provides visitors with a comprehensive understanding of my credentials and areas of specialty.
+
+
+
+
+ + Course Introduction Page: I created a special introduction page for the course "Web Application Programming and Hacking" (WAPH) as part of my continued dedication to information sharing and educational advancement. This carefully designed page, accessed via a special URL, provides an educational introduction to the nuances of the course syllabus. It tries to provide potential students a comprehensive grasp of the course's scope and objectives by providing a concise overview of the subject matter together with relevant practical activities.
+
+
+
+### Non-technical requirements (20 pts)​
+
+
+I decided to use an open-source CSS framework like Bootstrap to create the look and feel of my own website. I made this intentional decision since it made it possible for me to easily incorporate a unified and eye-catching style into my website. My website is a key component of my job application materials, therefore it was necessary to make sure that both its design and functionality will appeal to potential employers. I wanted to establish a professional and well-thought-out online presence, so I made use of Bootstrap's features and integrated it with my own website.
+
+
+
+I used a free Bootstrap 4 HTML5 personal portfolio template (available via the provided link) as the framework for my website. This template was a priceless tool that gave me a strong foundation on which to construct and personalize my website to showcase my special abilities, experiences, and style.
+
+In addition, I used Google Analytics to set up a page tracker to gather information about how visitors engage and interact with my website. Through integration of the tracking code into my index page's HTML, I was able to efficiently track traffic, user activity, and other relevant metrics. This analytical tool showed my dedication to using technology to make educated decisions and continuously improve my online presence in addition to offering useful data for optimization.
+
+![GA](images/GA.png)
+
+
+### Technical requirements (50 pts)​
+
+#### Basic JavaScript code (20 pts)​
+
+
+I have included a wide range of features to improve user experience and interaction in my JavaScript code. These include a stylish digital clock and its endearing analog equivalent, giving customers the choice of both contemporary and traditional timekeeping methods. In order to prioritize user privacy and control, I have also developed ability to toggle the visibility of email addresses.
+
+A standout feature of my approach is a dynamic topping element that, when hovered over, shows a unique message, giving the interface a little personality and interactivity. Additionally, I included a click-to-color changer so that users could easily alter the way they saw the content.
+
+
+I have used JQuery and the Angular framework to expedite development and take advantage of strong tools. By utilizing these technologies, I can effectively carry out JavaScript operations and handle intricate user interactions.
+
+I have incorporated external APIs into my product in a seamless manner, going beyond simple client-side improvements. Through the use of two public Web APIs, visitors can be entertained constantly with dynamically displayed jokes and charming images of friendly foxes greeting them every time a page loads.
+
+In addition, I have used JavaScript cookies to improve personalization and user retention. I am able to extend a warm greeting to returning users based on their prior interactions by preserving information about their visit, which helps to create a sense of familiarity and continuity between sessions.
+
+
+
